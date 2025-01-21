@@ -93,7 +93,7 @@ st.markdown(
     """
     <hr>
     <footer style="text-align: center; color: #95a5a6;">
-    Developed with ❤️ by [Your Name/Team].
+    Developed with ❤️ by [zero2learn].
     </footer>
     """,
     unsafe_allow_html=True,
